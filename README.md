@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- ⚡ Fun fact **I started leaning proggraming since i was 16 years old**
+- ⚡ Fun fact **I started leaning programming since i was 16 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
