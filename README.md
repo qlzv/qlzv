@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Qatada Azzeh</h1>
 <h3 align="center">A passionate Computer Scince (CS) Student At Applied Scince Private Universty Always Looking for new things to learn</h3>
 
+- ACPC Finalist
+
 - 🌱 I’m currently learning **JavaScript,React Js,Express Js**
 
 - 💬 Ask me about **JavaScript**
